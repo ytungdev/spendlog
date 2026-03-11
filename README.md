@@ -1,4 +1,4 @@
-# spendinglog
+# spendlog
 
 spendlog is a modern, full-stack web application designed for real-time collaborative household expenditure  tracking.
 

@@ -1,0 +1,5 @@
+{
+  "name": "Family Spend Tracker",
+  "description": "Real-time collaborative monthly spending tracker with Excel-like hotkeys and category analysis.",
+  "requestFramePermissions": []
+}
